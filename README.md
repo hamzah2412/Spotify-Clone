@@ -1,4 +1,6 @@
-Below is the preview image of Spotify-Clone. I learnt to do Context API (Redux), implement Material UI, using of Flexbox (CSS Styling), User Authentication and Spotify API. Used Spotify for Developers for Redirect URLs and Firebase for Deployment. Remember to add node modules (if you decide to clone). Remember to change the DirectUri of spotify.js after first deployment as well as your account on Spotify for Developers on Redirect URLs. Then run the build and reploy again.
+<h4>
+Below is the preview image of Spotify-Clone. I learnt to do Context API (Redux), implement Material UI, using of Flexbox (CSS Styling), User Authentication and Spotify API. Used Spotify for Developers for Redirect URLs and Firebase for Deployment. Remember to add node modules (if you decide to clone). Remember to change the DirectUri of spotify.js after first deployment (e.g https://spotify-clone-5a237.web.app/) as well as your account on Spotify for Developers on Redirect URLs (e.g https://spotify-clone-5a237.web.app/). Then run the build and reploy again.
+  </h4>
 
 <p align="center">
 <img src="https://user-images.githubusercontent.com/64706364/122367562-1f758300-cf8f-11eb-8263-b5919c3a651b.png" />
