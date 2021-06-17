@@ -25,6 +25,11 @@ You will also see any lint errors in the console.
 Runs the app in the development mode.\
 Install node.js modules into folder.
 
+### `npm install @material-ui/core`
+
+Runs the app in the development mode.\
+Install the material-ui source files via npm. They will inject the CSS needed.
+
 ### `npm run build`
 
 Builds the app for production to the `build` folder.\
